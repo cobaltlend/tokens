@@ -2,7 +2,7 @@
 
 This is a project which emerged from the ashes of [MyEtherWallet/ethereum-lists](https://github.com/MyEtherWallet/ethereum-lists) after the split of MyEtherWallet and MyCrypto. For some more context see [this blog post](https://walleth.org/2018/02/15/ethereum-lists).
 
-# Tokens
+# Tokens //
 
 Information related to tokens. ERC-20 compliant or compatible only, please.
 
